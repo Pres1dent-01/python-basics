@@ -9,7 +9,7 @@ print(courses[0])
 print(courses[3])
 print(courses[-1])
 print(courses[0:3])
-
+print(courses[-1:-3])
 #to add anything in list 
 courses.append('Art')
 print(courses)
